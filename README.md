@@ -5,7 +5,7 @@ How to reach me? Social Networks:
 <a href="https://discord.gg/ZXqtNbm">
   <code><img alt="Hideaki's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
 </a>
-<a href="https://www.youtube.com/channel/UCrErtqJnvWiz9FEKYTTpFUg?sub_confirmation=1">
+<a href="https://www.youtube.com/c/HideakiAtsuyo?sub_confirmation=1">
   <code><img alt="Hideaki's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
 </a>
 <a href="https://www.instagram.com/hideakiatsuyo/">
