@@ -2,7 +2,7 @@
 
 How to reach me? Social Networks:
 
-<a href="https://discord.gg/ZXqtNbm"><code><img alt="Hideaki's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a>
+<a href="https://discord.gg/HRNvGpj"><code><img alt="Hideaki's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a>
 <a href="https://www.youtube.com/c/HideakiAtsuyo?sub_confirmation=1"><code><img alt="Hideaki's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a>
 <a href="https://www.instagram.com/hideakiatsuyo"><code><img alt="Hideaki's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code></a>
 <a href="https://cracked.to/HideakiAtsuyo"><code><img alt="Hideaki's C.TO" height="20" src="https://cracked.to/favicon.ico"></code></a>
