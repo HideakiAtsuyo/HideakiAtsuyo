@@ -45,5 +45,12 @@ Free banned from c.to :(
 </a>
 <br>
 <br>
+<h3 align="center"> 
+Visitors<br>
+<img src="https://hgithub.glitch.me/count.svg" />
+</h3>
+<br>
+<br>
 
-![Used](https://github.com/HideakiAtsuyo/Test/blob/master/anuraghazra.md)
+
+![Used](https://github.com/anuraghazra/anuraghazra)
