@@ -7,8 +7,6 @@ How to reach me? Social Networks:
 <a href="https://www.instagram.com/hideakiatsuyo"><code><img alt="Hideaki's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code></a>
 <a href="https://cracked.to/HideakiAtsuyo"><code><img alt="Hideaki's C.TO" height="20" src="https://cracked.to/favicon.ico"></code></a>
 <br>
-Free banned from c.to :(
-<br>
 
 **Languages and Tools:**
 
