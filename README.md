@@ -50,5 +50,10 @@ Visitors<br>
 <br>
 <br>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=HideakiAtsuyo&theme=gruvbox">
+  </a>
+</p>
 
-![Used](https://github.com/anuraghazra/anuraghazra)
+![Used](https://google.com/search?q=lazy%20to%20put%20everything)
