@@ -55,5 +55,14 @@ Visitors<br>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=HideakiAtsuyo&theme=gruvbox">
   </a>
 </p>
+<br><br>
+- Good projects:
+<br>
+
+=> ![Discord.cpp](https://github.com/luccanunes/discord.cpp)
+
+===========================
+<br><br>
+
 
 ![Used](https://google.com/search?q=lazy%20to%20put%20everything)
