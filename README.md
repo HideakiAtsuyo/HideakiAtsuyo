@@ -1,5 +1,7 @@
 ### Hideaki
 
+![](https://komarev.com/ghpvc/?username=HideakiAtsuyo&color=blue)
+
 <details style='text-align: center;' align='center'>
   <summary> How to (find/reach) me </summary>
   <p style="text-align: center;"align="center">============================================================</p>
