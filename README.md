@@ -32,7 +32,9 @@
 </details>
 <details style='text-align: center;' align='center'>
   <summary> Some good projects </summary>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/JacqueSatan/ethyme.cpp">Ethyme.cpp</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/luccanunes/discord.cpp">Discord.cpp</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/whoshuu/cpr">CPR</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/gammasoft71/xtd_console">xtd.console</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/ikalnytskyi/termcolor">Termcolor</a></p>
   <p style="text-align: center;"align="center">============================================================</p>
