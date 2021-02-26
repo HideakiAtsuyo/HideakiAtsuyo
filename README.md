@@ -36,5 +36,6 @@
   <p style="text-align: center;"align="center">=> <a href="https://github.com/whoshuu/cpr">CPR</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/gammasoft71/xtd_console">xtd.console</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/ikalnytskyi/termcolor">Termcolor</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-studio">OBS</a></p>
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
