@@ -36,6 +36,12 @@
   <p style="text-align: center;"align="center">=> <a href="https://github.com/whoshuu/cpr">CPR</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/gammasoft71/xtd_console">xtd.console</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/ikalnytskyi/termcolor">Termcolor</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-studio">OBS</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-studio">OBS Studio</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-browser">OBS Browser</a></p>
+  =====
+  <p style="text-align: center;"align="center">=> Not sure :) <=</p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/ithewei/hplayer">hplayer</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/ithewei/libhv">libhv</a></p>
+  =====
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
