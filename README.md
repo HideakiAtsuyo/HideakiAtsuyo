@@ -1,6 +1,7 @@
 ### Hideaki
 
 ![](https://komarev.com/ghpvc/?username=HideakiAtsuyo&color=blue)
+<br><br><a href="https://pastebin.com/fs9myW73">ReadMe</a> | "pass :)"
 
 <details style='text-align: center;' align='center'>
   <summary> How to (find/reach) me </summary>
