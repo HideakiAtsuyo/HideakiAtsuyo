@@ -6,6 +6,10 @@
   <summary> How to (find/reach) me </summary>
   <p style="text-align: center;"align="center">============================================================</p>
   <p style="text-align: center;"align="center"><a href="https://discord.gg/n8KzC4MZzr"><code><img alt="Hideaki's Discord" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a> <a href="https://www.youtube.com/channel/UCDANHi6nIFx439kzgfdwfUA?sub_confirmation=1"><code><img alt="Hideaki's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a> <a href="https://www.instagram.com/hideakiatsuyo"><code><img alt="Hideaki's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code></a> <a href="https://cracked.to/HideakiAtsuyo"><code><img alt="Hideaki's C.TO" height="20" src="https://cracked.to/favicon.ico"></code></a></p>
+  Click to join their Discord Server:<br>
+  
+  [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/850258872613470208.png)](https://discord.gg/gZ82AXwmft)
+
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 <details style='text-align: center;' align='center'>
