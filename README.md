@@ -10,9 +10,20 @@
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 <details style='text-align: center;' align='center'>
+  <summary> Working on/In progress </summary>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/xStealth">xStealth(not open-src atm)</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/KidsWare">KidsWare(not open-src atm)</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/ReallyBasicExampleProtector">ReallyBasicExampleProtector(not open-src atm)</a></p>
+</details>
+<details style='text-align: center;' align='center'>
   <summary> Languages and Tools </summary>
-  <p style="text-align: center;"align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code></p> 
+  <p style="text-align: center;"align="center">- Languages: </p>
+  <p style="text-align: center;"align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> </p>
   <p style="text-align: center;"align="center">A little bit: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></p>
+  <p style="text-align: center;" align='center'> - Tools: </p>  
+  <p style="text-align: center;"align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code> <code><img height="20" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png?raw=true"></code>(learning java)</p>
+  
+  
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 <details style='text-align: center;' align='center'>
@@ -32,16 +43,12 @@
 </details>
 <details style='text-align: center;' align='center'>
   <summary> Some good projects </summary>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/JacqueSatan/ethyme.cpp">Ethyme.cpp</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/luccanunes/discord.cpp">Discord.cpp</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/whoshuu/cpr">CPR</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/gammasoft71/xtd_console">xtd.console</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/ikalnytskyi/termcolor">Termcolor</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-studio">OBS Studio</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-browser">OBS Browser</a></p>
   =====
   <p style="text-align: center;"align="center">=> Not sure :) <=</p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/ithewei/hplayer">hplayer</a></p>
   <p style="text-align: center;"align="center">=> <a href="https://github.com/ithewei/libhv">libhv</a></p>
   =====
   <p style="text-align: center;"align="center">============================================================</p>
