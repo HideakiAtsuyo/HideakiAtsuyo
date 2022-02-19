@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=HideakiAtsuyo&color=blue)
 <br>
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/868150205852291183.png)](https://discord.gg/vZYQF9bXq9) <== Click to join their Discord Server<br><br>Hideaki#7667
+[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/868150205852291183.png)](https://discord.gg/vZYQF9bXq9) <== Click to join their Discord Server<br>
 <details style='text-align: center;' align='center'>
   <summary> How to (find/reach) me </summary>
   <p style="text-align: center;"align="center">============================================================</p>
