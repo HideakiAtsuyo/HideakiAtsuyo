@@ -4,7 +4,6 @@
 <br>
 [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/868150205852291183.png)](https://discord.gg/2y6cXwGyHK)
 
-<h3>Unavailable until I finish a backup + reset</h3>
 <br>
   <p style="text-align: center;"align="center">=======================How to reach me======================</p>
   <p style="text-align: center;"align="center"><a href="https://discord.gg/2y6cXwGyHK"><code><img alt="Hideaki's Discord" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a> <a href="https://www.youtube.com/channel/UCDANHi6nIFx439kzgfdwfUA?sub_confirmation=1"><code><img alt="Hideaki's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a> <a href="https://www.instagram.com/hideakiatsuyo"><code><img alt="Hideaki's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code></a> <a href="https://omerta.la/profile/2231-hideaki"><code><img alt="Hideaki's Omerta" height="20" src="https://omerta.la/uploads/monthly_2021_03/android-chrome-512x512.png"></code></a> <a href="https://t.me/GameOverLmao"><code><img alt="Hideaki's Telegram" height="20" src="https://telegram.org/img/website_icon.svg"></code></a></p>
