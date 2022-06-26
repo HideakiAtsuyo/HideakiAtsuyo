@@ -10,9 +10,9 @@
   <p style="text-align: center;"align="center">============================================================</p>
 <details style='text-align: center;' align='center'>
   <summary> Working on/In progress </summary>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/xStealth">xStealth(not open-src atm)</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/KidsWare">KidsWare(not open-src atm)</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/ReallyBasicExampleProtector">ReallyBasicExampleProtector(very basic !)</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/xStealth">xStealth(not open-src atm, not sure to open-src it)</a></p>
+  <p style="text-align: center;"align="center">=> <a href="https://github.com/HideakiAtsuyo/forSkids_Stealer">forSkids_Stealer(not open-src atm, should be open-src in 2 weeks :))</a></p>
+</p>
 </details>
 <details style='text-align: center;' align='center'>
   <summary> Languages and Tools </summary>
