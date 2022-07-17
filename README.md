@@ -56,7 +56,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <div style="border-top: 3px solid #bbb">
 
 ## For Rich People
-- https://www.paypal.me/HideakiAtsuyoLmao
 - BTC(Bitcoin): `363mh5x6J2ZJ9EXARVdNhR5g8wAYoTyWaQ`
 - ETH(Etherum): `0x700C4C6093b15102221e8cF57a5939e1cFd505Ce`
 - SOL(Solana): `AQ31CWEa21Bj2PDc8vWXh7S2zWmrKp91WXsWGqy7g7LJ`
