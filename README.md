@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=HideakiAtsuyo&color=blue)
 <br>
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/868150205852291183.png)](https://discord.com)
 
 <br>
   <p style="text-align: center;"align="center">=======================How to reach me======================</p>
